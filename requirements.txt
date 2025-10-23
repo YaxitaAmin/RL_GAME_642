@@ -1,6 +1,8 @@
-numpy==2.0.1
+numpy==1.26.4
 pandas==2.0.3
 streamlit==1.28.0
-markdown-it-py==4.0.0
-pygments==2.19.2
-mdurl==0.1.2
+matplotlib==3.8.0
+seaborn==0.12.2
+joblib==1.3.2
+scikit-learn==1.3.0
+pygame==2.5.2
