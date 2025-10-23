@@ -1,0 +1,29 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+.git
+.gitignore
+.DS_Store
+.vscode
+.idea
+
+# Exclude trained models (they'll be generated or mounted)
+*.pkl
+*.pkl.old
+*.pkl.backup
+
+# Exclude large files and directories
+node_modules/
+*.log
+*.tmp
+*.cache
+.pytest_cache/
+.coverage
+htmlcov/
