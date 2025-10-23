@@ -1,7 +1,6 @@
-numpy==1.24.3
+numpy==2.0.1
 pandas==2.0.3
 streamlit==1.28.0
-rich==13.9.4
 markdown-it-py==4.0.0
 pygments==2.19.2
 mdurl==0.1.2
